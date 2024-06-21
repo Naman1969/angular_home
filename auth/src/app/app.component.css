@@ -1,0 +1,16 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+
+  .btn button{
+  margin-right: 10px;
+  
+}
+
+.bt {
+  width: 700px; /* Set the width to 1000px */
+  padding-top: 20px; /* Maintain the padding from the top */
+  /*margin: 0 auto; /* Center the container horizontally */
+}
+

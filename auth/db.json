@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "76f2",
+      "firstName": "naman",
+      "lastName": "surana",
+      "email": "namansurana456789@gmail.com",
+      "dob": "2024-02-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "PHD",
+      "company": "ensylon",
+      "experience": 2,
+      "package": 2
+    },
+    {
+      "id": "948f",
+      "firstName": "naman",
+      "lastName": "surana",
+      "email": "namansurana@gmail.com",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "ensylon",
+      "experience": "",
+      "package": ""
+    }
+  ]
+}
